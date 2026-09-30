@@ -1,4 +1,4 @@
-﻿name: 🐍 Generate Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
   schedule:
@@ -10,13 +10,17 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
+    # INI ADALAH KUNCI PENGAMannya
+    # Hanya memberikan akses 'tulis' untuk file di repo ini saja, 
+    # bot tidak bisa mengubah pengaturan repo, issue, atau PR.
+    permissions: 
+      contents: write 
+    
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: 🐍 Generate github-contribution-grid-snake
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
