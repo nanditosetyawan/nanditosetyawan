@@ -199,15 +199,15 @@ const NANDITO = {
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-dark.svg"
+    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman.svg"
+    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Contribution Pac-Man Animation"
-    src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-dark.svg"
+    src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-contribution-graph-dark.svg"
   />
 </picture>
 
