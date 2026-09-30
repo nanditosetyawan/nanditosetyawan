@@ -144,9 +144,6 @@ const NANDITO = {
 <br/><br/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanditosetyawan&layout=compact&theme=transparent&bg_color=0D1117&border_color=00000000&title_color=7C3AED&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=nanditosetyawan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E94560&area=true&area_color=5B21B6&hide_border=true" alt="Activity Graph"/>
-
 </div>
 
 
@@ -184,8 +181,7 @@ const NANDITO = {
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nanditosetyawan&color=7C3AED&style=for-the-badge&label=VISITORS+DETECTED)
-
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=nanditosetyawan.nanditosetyawan&label=VISITORS+DETECTED&labelColor=%230D1117&countColor=%237C3AED&style=for-the-badge)
 </div>
 
 ---
