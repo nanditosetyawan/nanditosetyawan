@@ -1,4 +1,4 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                    🚀 NANDITO SETYAWAN — GITHUB PROFILE                    -->
 <!--                    Anti-Gravity | Space Explorer | Dev Universe            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -86,23 +86,7 @@ const NANDITO = {
 </tr>
 </table>
 
----
 
-<div align="center">
-
-## 🏆 `// GALACTIC ACHIEVEMENT TROPHIES`
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nanditosetyawan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nanditosetyawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8&rank=S,AAA,AA)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <div align="center">
 
@@ -165,25 +149,7 @@ const NANDITO = {
 
 </div>
 
----
 
-<div align="center">
-
-## 🌠 `// DATA OBSERVATORY — DEEP SCAN`
-
-<br/>
-
-[![](https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%"/>
-<img src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%"/>
-<img src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -226,22 +192,22 @@ const NANDITO = {
 
 <div align="center">
 
-## 🐍 `// CONTRIBUTION ORBIT — SNAKE GRID`
+## 🕹️ `// CONTRIBUTION ORBIT — PAC-MAN GRID`
 
 <br/>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman.svg"
   />
   <img
-    alt="Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Pac-Man Animation"
+    src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-dark.svg"
   />
 </picture>
 
