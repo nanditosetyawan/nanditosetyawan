@@ -15,7 +15,9 @@
 
 ### 🛠️ Tech stacks I have used
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=2" width="360" height="2" />
+
+<br/><br/>
 
 **`⬡ MOBILE DIVISION`**
 
