@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 🛠️ What I Use
+### 🛠️ Tech stacks I have used
 
 <br/>
 
