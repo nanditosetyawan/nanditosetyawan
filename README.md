@@ -15,10 +15,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=2" width="220" height="2" />
 
-
-
 </div>
-<br/>
+
 - 🎓 **Undergraduate Information Systems student** passionate about software engineering & modern tech solutions.
 - 📱 **Aspiring Mobile & Web Developer** actively learning and building projects with **Flutter** and **Laravel / Vue**.
 - 🔭 **Currently working on** real-time mobile applications, reactive UI/UX, and scalable architecture.
@@ -35,40 +33,41 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=2" width="360" height="2" />
 
-<br/><br/>
+<br/>
 
-**`⬡ MOBILE DIVISION`**
+**`⬡ LANGUAGES & CORE`**
 
-[![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)
 [![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net)
+[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://html.spec.whatwg.org)
+[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://www.w3.org/Style/CSS)
 
 <br/>
 
-**`⬡ WEB DIVISION`**
+**`⬡ FRAMEWORKS & LIBRARIES`**
 
+[![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)
 [![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://laravel.com)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=dark)](https://vuejs.org)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
-
-<br/>
-
-**`⬡ DATA & BACKEND DIVISION`**
-
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
 [![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com)
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,vue,react,ts,tailwind,python,supabase,mysql&theme=dark&perline=10)](https://skillicons.dev)
+**`⬡ DEVELOPMENT TOOLS`**
 
-<br/>
-
-**`⬡ SUPPORT SYSTEMS`**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark&perline=6)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://developer.android.com/studio)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 
 </div>
 
