@@ -13,60 +13,6 @@
 
 <div align="center">
 
-## 🌌 `// MISSION BRIEFING`
-
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-# pilot.config.yml
-name: "Nandito Setyawan"
-designation: "Systems Information Explorer"
-academy: "🎓 S1 Sistem Informasi"
-homebase: "🌏 Indonesia"
-current_mission:
-  - "🛸 Building cross-platform apps w/ Flutter"
-  - "🌐 Crafting full-stack web w/ Laravel + Vue"
-  - "📊 Navigating data orbits w/ Python"
-  - "⚡ Warp-speed UX: Tailwind + TypeScript"
-coordinates:
-  github: "@nanditosetyawan"
-  status: "Always learning, never landing"
-mission_log: "Turning caffeine & code into orbit"
-```
-
-</td>
-<td width="50%" valign="top">
-
-```javascript
-// space_explorer.js — Real-time Stats
-const NANDITO = {
-  🚀: "Launching ideas into production",
-  🌌: "Orbiting between Mobile & Web Dev",
-  🛸: "Alien to bugs, native to solutions",
-  🪐: "Data gravity keeps me grounded",
-
-  focus: ["Flutter", "Laravel", "Vue", "React"],
-  data: ["Python", "SQL", "Supabase"],
-  style: ["Clean Code", "DRY", "Scalable Arch"],
-
-  currentlyLearning: "TypeScript Deep Dive 🔭",
-  openToCollaborate: true,
-  funFact: "The universe is just a big DB 🌌"
-};
-```
-
-</td>
-</tr>
-</table>
-
-
-
-<div align="center">
-
 ## 🛸 `// TECH ARSENAL — SKILL MATRIX`
 
 <br/>
@@ -183,17 +129,5 @@ const NANDITO = {
     src="https://raw.githubusercontent.com/nanditosetyawan/nanditosetyawan/output/pacman-contribution-graph-dark.svg"
   />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,30:533483,60:0f3460,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**`🚀 "In a universe of infinite code, every commit is a star." — Nandito`**
-
-*Made with 💜 & ☕ somewhere between Earth orbit and the Codebase Nebula*
 
 </div>
