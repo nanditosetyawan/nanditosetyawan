@@ -9,6 +9,24 @@
 
 </div>
 
+<div align="center">
+
+### 🚀 About Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:0D1117&height=2" width="220" height="2" />
+
+<br/>
+
+</div>
+
+- 🎓 **Undergraduate Information Systems student** passionate about software engineering & modern tech solutions.
+- 📱 **Mobile & Web Developer** specializing in cross-platform **Flutter** and full-stack **Laravel / Vue**.
+- 🔭 **Currently working on** real-time mobile applications, reactive UI/UX, and scalable architecture.
+- 🎯 **2026 Goals**: Deepen backend engineering skills, build production-grade apps, and actively contribute to open source.
+- ☕ **Fun Fact**: Turning curiosity, clean code, and coffee into functional digital experiences.
+
+<br/>
+
 ---
 
 <div align="center">
