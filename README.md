@@ -9,13 +9,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-## 🛸 `// TECH ARSENAL — SKILL MATRIX`
-
-<br/>
 
 **`⬡ MOBILE DIVISION`**
 
@@ -56,11 +50,7 @@
 
 <div align="center">
 
-## 📊 `// MISSION DASHBOARD — LIVE TELEMETRY`
-
-<br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nanditosetyawan&show_icons=true&theme=transparent&bg_color=0D1117&border_color=00000000&title_color=7C3AED&icon_color=A78BFA&text_color=C9D1D9&ring_color=5B21B6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nanditosetyawan&show_icons=true&theme=transparent&bg_color=0D1117&border_color=00000000&title_color=7C3AED&icon_color=A78BFA&text_color=C9D1D9&ring_color=5B21B6&hide_border=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=nanditosetyawan&theme=transparent&background=0D1117&border=00000000&ring=7C3AED&fire=E94560&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Streak"/>
 
@@ -69,25 +59,9 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanditosetyawan&layout=compact&theme=transparent&bg_color=0D1117&border_color=00000000&title_color=7C3AED&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
-
-
-<div align="center">
-
-## 🪐 `// ORBITAL PROJECTS — ACTIVE MISSIONS`
-
-<br/>
-
-> 🛸 *"More missions launching soon — stay in orbit."*
-
-</div>
-
 ---
 
 <div align="center">
-
-## 🌐 `// COMMUNICATION ARRAY`
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-nanditosetyawan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nanditosetyawan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/nanditosetyawan)
@@ -100,20 +74,12 @@
 
 <div align="center">
 
-## 👁 `// VISITOR TELEMETRY`
-
-<br/>
-
-![Visitor Count](https://api.visitorbadge.io/api/visitors?path=nanditosetyawan.nanditosetyawan&label=VISITORS+DETECTED&labelColor=%230D1117&countColor=%237C3AED&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=nanditosetyawan&color=7C3AED&style=for-the-badge&label=VISITORS+DETECTED)
 </div>
 
 ---
 
 <div align="center">
-
-## 🕹️ `// CONTRIBUTION ORBIT — PAC-MAN GRID`
-
-<br/>
 
 <picture>
   <source
