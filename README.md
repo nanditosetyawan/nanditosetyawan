@@ -51,7 +51,9 @@
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=nanditosetyawan&show_icons=true&theme=transparent&bg_color=0D1117&border_color=00000000&title_color=7C3AED&icon_color=A78BFA&text_color=C9D1D9&ring_color=5B21B6&hide_border=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=nanditosetyawan&theme=transparent&background=0D1117&border=00000000&ring=7C3AED&fire=E94560&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -74,7 +76,7 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nanditosetyawan&color=7C3AED&style=for-the-badge&label=VISITORS+DETECTED)
+[![Visitor Count](https://hits.sh/github.com/nanditosetyawan/nanditosetyawan.svg?style=for-the-badge&label=VISITORS+DETECTED&color=7C3AED&labelColor=0D1117)](https://hits.sh/github.com/nanditosetyawan/nanditosetyawan/)
 </div>
 
 ---
