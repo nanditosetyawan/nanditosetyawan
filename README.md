@@ -9,29 +9,6 @@
 
 </div>
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    MISSION CONTROL · ACTIVE                       ║
-║             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━               ║
-║   Callsign  : NANDITO                                             ║
-║   Division  : Systems Information                                 ║
-║   Spec      : Mobile · Web · Data                                 ║
-║   Status    : 🟢 ONLINE                                           ║
-║   Location  : Low Earth Orbit                                     ║
-║   Vessel    : Planet Indonesia                                     ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Mobile+%26+Web+Developer+from+Indonesia;🌌+Exploring+the+Infinite+Codebase+of+the+Universe;🛸+Laravel+·+Vue+·+Flutter+·+React+·+Python;🪐+Data+Explorer+%7C+Full-Stack+Architect)](https://github.com/nanditosetyawan)
-
-</div>
-
 ---
 
 <div align="center">
