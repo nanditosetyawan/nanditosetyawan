@@ -65,9 +65,10 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://developer.android.com/studio)
+[![Antigravity IDE](assets/icons/antigravity.svg)](https://antigravity.google)
+[![Cisco Packet Tracer](assets/icons/cisco.svg)](https://www.netacad.com/courses/packet-tracer)
+[![QGIS](assets/icons/qgis.svg)](https://qgis.org)
 [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 
 </div>
 
@@ -91,9 +92,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nanditosetyawan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nanditosetyawan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/nanditosetyawan)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nanditosetyawan)
-[![Email](https://img.shields.io/badge/Email-Signal_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:nanditosetyawan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://id.linkedin.com/in/sultannang-nandito-setiyawan)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nditosetyawan)
+[![Email](https://img.shields.io/badge/Email-Signal_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:124240083@student.upnyk.ac.id)
 
 </div>
 

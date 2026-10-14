@@ -1,0 +1,23 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <defs>
+    <linearGradient id="cisco_grad" x1="40" y1="40" x2="216" y2="216" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#24B3E3"/>
+      <stop offset="100%" stop-color="#049FD9"/>
+    </linearGradient>
+  </defs>
+  <!-- Cisco bridge iconic network soundwaves -->
+  <g transform="translate(38, 52) scale(7.5)" fill="url(#cisco_grad)">
+    <rect x="0" y="7.5" width="1.2" height="6" rx="0.6"/>
+    <rect x="2.8" y="5" width="1.2" height="11" rx="0.6"/>
+    <rect x="5.6" y="7.5" width="1.2" height="6" rx="0.6"/>
+    <rect x="8.4" y="2" width="1.2" height="17" rx="0.6"/>
+    <rect x="11.2" y="7.5" width="1.2" height="6" rx="0.6"/>
+    <rect x="14" y="5" width="1.2" height="11" rx="0.6"/>
+    <rect x="16.8" y="7.5" width="1.2" height="6" rx="0.6"/>
+    <rect x="19.6" y="2" width="1.2" height="17" rx="0.6"/>
+    <rect x="22.4" y="7.5" width="1.2" height="6" rx="0.6"/>
+  </g>
+  <!-- Subtitle Packet Tracer -->
+  <text x="128" y="196" fill="#24B3E3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="20" font-weight="800" letter-spacing="2.5" text-anchor="middle">PACKET TRACER</text>
+</svg>

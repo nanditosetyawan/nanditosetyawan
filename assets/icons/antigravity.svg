@@ -1,0 +1,24 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <defs>
+    <linearGradient id="agy_grad" x1="40" y1="40" x2="216" y2="216" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="sparkle_grad" x1="128" y1="56" x2="128" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+  <!-- Orbital Ring -->
+  <ellipse cx="128" cy="128" rx="86" ry="34" transform="rotate(-28 128 128)" stroke="url(#agy_grad)" stroke-width="7" stroke-dasharray="16 10" opacity="0.7"/>
+  <!-- Core AI Sphere -->
+  <circle cx="128" cy="128" r="44" fill="url(#agy_grad)"/>
+  <!-- Upward Anti-Gravity Spark Star -->
+  <path d="M128 62 C133 90, 150 107, 178 112 C150 117, 133 134, 128 162 C123 134, 106 117, 78 112 C106 107, 123 90, 128 62 Z" fill="url(#sparkle_grad)"/>
+  <!-- Floating Gravity Nodes -->
+  <circle cx="128" cy="194" r="6" fill="#38BDF8"/>
+  <circle cx="128" cy="210" r="3.5" fill="#818CF8" opacity="0.8"/>
+  <circle cx="180" cy="84" r="4.5" fill="#F472B6"/>
+</svg>

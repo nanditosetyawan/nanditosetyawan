@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <defs>
+    <linearGradient id="qgis_grad" x1="48" y1="48" x2="208" y2="208" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#93B023"/>
+      <stop offset="100%" stop-color="#589632"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(48, 48) scale(6.666)">
+    <!-- Q letter body -->
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 6.627 5.373 12 12 12 1.8 0 3.49-.395 5.01-1.104l-3.32-3.32A7.37 7.37 0 0112 19.4a7.4 7.4 0 115.232-12.632l3.32-3.32A11.94 11.94 0 0012 0z" fill="url(#qgis_grad)"/>
+    <!-- QGIS directional arrow parts -->
+    <polygon points="12.8,13 12.8,16.65 9.8,13.6 9.8,10.1 13.38,10.1 16.23,13" fill="#EE7913"/>
+    <polygon points="23.76,20.6 23.76,24 20.1,24 14.37,18.1 14.37,14.55 17.72,14.55" fill="#589632"/>
+    <polygon points="12.88,13.01 16.25,13.01 20.1,16.86 16.73,16.86" fill="#F0E64A"/>
+  </g>
+</svg>
